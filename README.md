@@ -1,4 +1,5 @@
-# Статистика fastqc и multiqc
+# Статистика multiqc
+Проверяем качество чтений
 ![image](https://user-images.githubusercontent.com/93263163/144484715-252d2973-3299-4ba5-beed-b738a9d4c2ab.png)
 ![image](https://user-images.githubusercontent.com/93263163/144484775-c6fd0ace-a353-4ca2-84d4-73bbc56f2611.png)
 ![image](https://user-images.githubusercontent.com/93263163/144484825-b6d615fa-b608-45bd-be1d-9352fc548f1e.png)
