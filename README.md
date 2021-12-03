@@ -46,8 +46,11 @@ ALL.info собираем вручную. Затем подгружаем к col
 ![image](https://user-images.githubusercontent.com/93263163/144654006-7f2d5c0b-da38-47de-a06f-a48af006245a.png)
 ![image](https://user-images.githubusercontent.com/93263163/144654033-15d8e459-37ba-4909-a200-6c08dfb17ae2.png)
 # DESeq2
+## Тепловая карта
 ![image](https://user-images.githubusercontent.com/93263163/144654111-bed0fded-e7a3-4b67-985a-1240604b2020.png)
+## MA-plot
 ![image](https://user-images.githubusercontent.com/93263163/144654140-43d82546-146f-4b6a-a265-3e45831019b6.png)
+## Тепловая карта для генов
 ![image](https://user-images.githubusercontent.com/93263163/144654868-28897f98-2025-42be-ad84-e733893df85d.png)
 
 Выбираем произвольные гены для иллюстрации:
