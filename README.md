@@ -14,23 +14,23 @@
 # Hisat и HtSeq
 # Сборка ALL.counts и ALL.info
 ALL.counts собираются при помощи Python из всех .counts файлов.
->files = ["SRR3414635.counts","SRR3414636.counts","SRR3414637.counts","SRR3414629.counts","SRR3414630.counts","SRR3414631.counts"]
->AllDict= {}
->for i in files:
->    file = open(i, 'r')
->    for line in file:
->        x = line.find('\t')
->        if line[:x] not in AllDict.keys():
->            AllDict[line[:x]] = []
->        AllDict[line[:x]].append(int(line[x + 1:]))
->    file.close()
->file = open("ALL.counts", 'w')
->file.write('c1,c2,c3,r1,r2,r3\n')
->for i in AllDict.keys():
->    file.write(i)
->    for j in AllDict[i]:
->        file.write(','+str(j))
->    file.write('\n')
+>files=["SRR3414635.counts","SRR3414636.counts","SRR3414637.counts","SRR3414629.counts","SRR3414630.counts","SRR3414631.counts"] \n
+>AllDict= {}  \n
+>for i in files:  \n
+>    file = open(i, 'r')  \n
+>    for line in file: \n
+>        x = line.find('\t')  \n
+>        if line[:x] not in AllDict.keys(): \n
+>            AllDict[line[:x]] = [] \n
+>        AllDict[line[:x]].append(int(line[x + 1:])) \n
+>    file.close() \n
+>file = open("ALL.counts", 'w') \n
+>file.write('c1,c2,c3,r1,r2,r3\n') \n
+>for i in AllDict.keys(): \n
+>    file.write(i) \n
+>    for j in AllDict[i]: \n
+>        file.write(','+str(j)) \n
+>    file.write('\n') \n
 
 
 ALL.info собираем вручную. Затем подгружаем к collab со статистикой. Получаем следующие фреймы:
