@@ -31,6 +31,8 @@ ALL.counts собираются при помощи Python из всех .counts
 >    for j in AllDict[i]:
 >        file.write(','+str(j))
 >    file.write('\n')
+
+
 ALL.info собираем вручную. Затем подгружаем к collab со статистикой. Получаем следующие фреймы:
 ![image](https://user-images.githubusercontent.com/93263163/144654006-7f2d5c0b-da38-47de-a06f-a48af006245a.png)
 ![image](https://user-images.githubusercontent.com/93263163/144654033-15d8e459-37ba-4909-a200-6c08dfb17ae2.png)
