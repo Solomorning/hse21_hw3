@@ -40,7 +40,9 @@ ALL.info собираем вручную. Затем подгружаем к col
 ![image](https://user-images.githubusercontent.com/93263163/144654111-bed0fded-e7a3-4b67-985a-1240604b2020.png)
 ![image](https://user-images.githubusercontent.com/93263163/144654140-43d82546-146f-4b6a-a265-3e45831019b6.png)
 ![image](https://user-images.githubusercontent.com/93263163/144654868-28897f98-2025-42be-ad84-e733893df85d.png)
-Выберем какие-то произвольные гены, чтобы проиллюстрировать изменения:
+
+Выбираем произвольные гены для иллюстрации:
+
 ![image](https://user-images.githubusercontent.com/93263163/144655168-e19b6acd-4632-417e-b5f0-cb0ce915d4e2.png)
 ![image](https://user-images.githubusercontent.com/93263163/144655191-30bab771-b108-4a3d-9403-76fb0c19dd4a.png)
 ![image](https://user-images.githubusercontent.com/93263163/144655216-a98dba3f-e19a-4753-8083-672b45a9381a.png)
