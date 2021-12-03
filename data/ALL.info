@@ -1,0 +1,7 @@
+gene,id,id
+c1,SRR341635,control
+c2,SRR341636,control
+c3,SRR341637,control
+r1,SRR341629,reprogramming
+r2,SRR341630,reprogramming
+r3,SRR341631,reprogramming
