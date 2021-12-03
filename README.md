@@ -1,4 +1,3 @@
-# Описание
 # Рабочий код в collab
 Выравнивание: https://colab.research.google.com/drive/17sXaaJGzfEpOlzjvTLFMKn-XA8fqLWWf?usp=sharing
 Код для сборки ALL.counts - ниже.
