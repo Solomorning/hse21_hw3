@@ -53,14 +53,14 @@ ALL.info собираем вручную. Затем подгружаем к col
 ## Тепловая карта для генов
 ![image](https://user-images.githubusercontent.com/93263163/144654868-28897f98-2025-42be-ad84-e733893df85d.png)
 
-Выбираем произвольные гены для иллюстрации:
+## Гены, наиболее значимо поменявшие свою экспрессию
+![image](https://user-images.githubusercontent.com/93263163/144666987-ca854785-e0cd-49d7-b2ff-503b85b6a795.png)
+![image](https://user-images.githubusercontent.com/93263163/144667019-6aafbec2-9d2f-4898-a96b-4cb542e5d815.png)
+![image](https://user-images.githubusercontent.com/93263163/144667035-d82185e2-c09b-45a7-a0c0-ca48767f6fce.png)
+![image](https://user-images.githubusercontent.com/93263163/144667058-a0d2e074-53ab-40c6-a5ff-9d59c7494d5d.png)
+![image](https://user-images.githubusercontent.com/93263163/144667091-704f6dbd-4ed0-435d-b8d4-77e9e9891438.png)
+![image](https://user-images.githubusercontent.com/93263163/144667149-2b3d8f90-6f3b-4086-9011-5fc8d3c9be68.png)
 
-![image](https://user-images.githubusercontent.com/93263163/144655168-e19b6acd-4632-417e-b5f0-cb0ce915d4e2.png)
-![image](https://user-images.githubusercontent.com/93263163/144655191-30bab771-b108-4a3d-9403-76fb0c19dd4a.png)
-![image](https://user-images.githubusercontent.com/93263163/144655216-a98dba3f-e19a-4753-8083-672b45a9381a.png)
-![image](https://user-images.githubusercontent.com/93263163/144655313-786085a6-cc07-48bd-bfd0-59a4e2361347.png)
-![image](https://user-images.githubusercontent.com/93263163/144655429-45a6cea1-1395-4c65-a6fa-02e6c9c010c3.png)
-![image](https://user-images.githubusercontent.com/93263163/144655370-ec5b6580-ea06-4543-8528-72f31e4a65a3.png)
 
 
 
